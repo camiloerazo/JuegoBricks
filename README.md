@@ -1,6 +1,6 @@
 # 🧪 Pruebas Unitarias con Pytest en JuegoBricks
 
-#Desarrollador/Estudiante:
+# Desarrollador/Estudiante:
 Juan Camilo Erazo Ordoñez - Calidad del software 2025
 
 ## 📦 Instalación de Dependencias

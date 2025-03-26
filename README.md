@@ -1,5 +1,8 @@
 # 🧪 Pruebas Unitarias con Pytest en JuegoBricks
 
+#Desarrollador/Estudiante:
+Juan Camilo Erazo Ordoñez - Calidad del software 2025
+
 ## 📦 Instalación de Dependencias
 
 Ejecuta los siguientes comandos para instalar las herramientas necesarias:

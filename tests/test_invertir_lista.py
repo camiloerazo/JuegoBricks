@@ -1,5 +1,5 @@
 import pytest
-from src.calculadora import invertir_lista
+from src.invertir_lista import invertir_lista
 
 def test_invertir_lista():
     assert invertir_lista([1, 2, 3, 4]) == [4, 3, 2, 1]

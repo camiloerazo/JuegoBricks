@@ -1,5 +1,5 @@
 import pytest
-from src.calculadora import dias_en_mes
+from src.cuantos_dias_por_mes import dias_en_mes
 
 def test_dias_en_mes():
     assert dias_en_mes(1, 2024) == 31

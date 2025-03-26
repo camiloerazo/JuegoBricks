@@ -1,5 +1,5 @@
 import pytest
-from src.calculadora import numero_fibonacci
+from src.fibonacci import numero_fibonacci
 
 def test_numero_fibonacci():
     assert numero_fibonacci(0) == 0

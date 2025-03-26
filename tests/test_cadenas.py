@@ -1,5 +1,8 @@
 import pytest
-from src.cadenas import *  # Importa el módulo desde el paquete src
+from src.cadenas import convertir_mayusculas
 
-def test_placeholder():
-    assert True  # TODO: Reemplazar con pruebas reales
+def test_convertir_mayusculas():
+    assert convertir_mayusculas("python") == "PYTHON"
+    assert convertir_mayusculas("Prueba") == "PRUEBA"
+    assert convertir_mayusculas("123") == "123"
+    assert convertir_mayusculas("") == ""
